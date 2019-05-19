@@ -3,7 +3,7 @@ package excercise2;
 
 //*********************** An array of 10 values and write a program to find the sum of all the elements in the array****
 
-
+/KKKKKKKKKKKKKKKKKKKKKKKKKkkk
 public class Question5 {
     static int integerArray[]= { 23, 6, 47, 35, 2, 14,7,25,21,29};
 
